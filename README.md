@@ -1,5 +1,8 @@
+## What?
 List of public/hybrid/private blockchain networks, layer 2 networks (state channels, rollups, plasma chains), appchains and blockchain-related networks. Why? Just for fun really.
 
+
+## The list
 * Acala
 * Algorand
 * Astar
@@ -76,3 +79,7 @@ List of public/hybrid/private blockchain networks, layer 2 networks (state chann
 * Vechain
 * Zcash
 * zksync
+
+
+## Contribute
+Feel free to open PRs to add in more networks 👍
