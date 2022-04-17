@@ -5,9 +5,9 @@ List of public/hybrid/private blockchain networks, layer 2 networks (state chann
 ## The list
 * Acala
 * Algorand
-* Astar
 * Arbitrum
 * ArcBlock
+* Astar
 * Aurora
 * Avalanche
 * Aztec
@@ -25,8 +25,8 @@ List of public/hybrid/private blockchain networks, layer 2 networks (state chann
 * Chia
 * Cronos
 * Dogecoin
-* Elrond
 * EOS
+* Elrond
 * Ethereum
 * Ethereum Classic
 * Fantom
@@ -35,12 +35,12 @@ List of public/hybrid/private blockchain networks, layer 2 networks (state chann
 * Heco
 * Hedera
 * Hermez
-* Kadena
+* IOTA
 * Immutable X
 * Internet Computer
-* IOTA
-* Kusama
 * JeChain
+* Kadena
+* Kusama
 * Lightning Network
 * Lisk
 * Litecoin
@@ -54,13 +54,16 @@ List of public/hybrid/private blockchain networks, layer 2 networks (state chann
 * Nano
 * Near
 * Neo
+* OMG Network
+* Oasis
+* Octopus
+* Optimism
 * Peercoin
 * Polkadot
 * Polygon
-* Oasis
-* Octopus
-* OMG Network
-* Optimism
+* Raiden
+* Ravencoin
+* Ripple
 * Secret Network
 * Shiden
 * Siacoin
@@ -70,9 +73,6 @@ List of public/hybrid/private blockchain networks, layer 2 networks (state chann
 * Starknet
 * Stellar
 * Syscoin
-* Raiden
-* Ravencoin
-* Ripple
 * Terra
 * Tezos
 * Tron
